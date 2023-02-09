@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-02-03T03:14:42.545Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-02-03T03:18:42.545Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite RocketSeat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 2800,
+      "createdAt": "2023-02-04T03:18:42.545Z"
+    },
+    {
+      "description": "Salario Liquido Algar Telecom",
+      "price": 4800,
+      "category": "renda",
+      "type": "income",
+      "createdAt": "2023-02-08T01:37:23.398Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 180,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-08T01:53:12.354Z",
+      "id": 5
+    }
+  ]
+}
